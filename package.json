@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-capistrano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/puncoz-official/nodejs-capistrano.git"
+  },
+  "author": "Puncoz Nepal <info@puncoz.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puncoz-official/nodejs-capistrano/issues"
+  },
+  "homepage": "https://github.com/puncoz-official/nodejs-capistrano#readme"
+}
