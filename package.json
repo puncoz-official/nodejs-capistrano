@@ -1,8 +1,8 @@
 {
   "name": "nodejs-capistrano",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Zero downtime automated deployment using capistrano for nodejs app.",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/puncoz-official/nodejs-capistrano/issues"
   },
-  "homepage": "https://github.com/puncoz-official/nodejs-capistrano#readme"
+  "homepage": "https://github.com/puncoz-official/nodejs-capistrano#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
